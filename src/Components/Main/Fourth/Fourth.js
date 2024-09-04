@@ -18,6 +18,8 @@ class Fourth extends Component {
 						<ul>
 							<li><a href="">Learn more</a></li>
 							<li><a href="">Buy</a></li>
+							<li><a href="">sell</a></li>
+							<li><a href="">SEE MORE</a></li>
 						</ul> 
 					</div>					
 				</div>				
